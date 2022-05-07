@@ -8,5 +8,13 @@ Ejecutado en el carpeta de mi ordenador me muestra las modificaciones que he rea
 
 -> C:\Users\Karlos\Desktop\The Egg\GIT\theegg_ai>git add Hola.txt
 
-Este comando sube a la staging area el archivo Hola.txt.ç
+Este comando sube a la staging area el archivo Hola.txt
 Si pones git add . (Atencion al punto) sube todos los archivos.git git 
+
+-> C:\Users\Karlos\Desktop\The Egg\GIT\theegg_ai>git commit -m "Subida de los archivos hola.txt y Coamndos de Git desde la consola"
+
+Con este comando se crea una especie de paquete donde estan todos los cambios faltando todavia el enviarlos al github de la red.
+
+-> C:\Users\Karlos\Desktop\The Egg\GIT\theegg_ai>git push 
+
+Este es el comando que sube todo lo que tenemos en el ultimo commit.
