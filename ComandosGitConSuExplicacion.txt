@@ -1,0 +1,12 @@
+-> C:\Users\Karlos\Desktop\The Egg\GIT\theegg_ai>git clone https://github.com/GranXOK/theegg_ai
+
+Este comando situado en la carpeta de mi ordenador donde quiero clonar un repositortio que tengo en GitHub
+
+-> C:\Users\Karlos\Desktop\The Egg\GIT\theegg_ai>git status
+
+Ejecutado en el carpeta de mi ordenador me muestra las modificaciones que he realizado que todavia no he subido a mi repositorio
+
+-> C:\Users\Karlos\Desktop\The Egg\GIT\theegg_ai>git add Hola.txt
+
+Este comando sube a la staging area el archivo Hola.txt.ç
+Si pones git add . (Atencion al punto) sube todos los archivos.git git 
